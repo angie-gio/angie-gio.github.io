@@ -1,13 +1,13 @@
 ---
 title: Location
 subtitle: Where to find us.
-image: ../assets/img/castello1.jpg
+image: ../img/castello1.jpg
 alt: Keep Exploring
 
 caption:
   title: Travel
   subtitle: Join us
-  thumbnail:  ../assets/img/castello1.jpg
+  thumbnail:  ../img/castello1.jpg
 ---
 Here we provide directions!
 
