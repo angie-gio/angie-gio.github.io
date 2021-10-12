@@ -139,7 +139,7 @@ en: &DEFAULT_EN
     phone: "Phone Number"
     phone-validation: "Please enter your phone number."
     message: "Message*"
-    message-validation: "Please enter a message, indicating dietary restrictions (if any)."
+    message-validation: "Please enter a message, indicating dietary restrictions (if any)"
     subject: "Contact Form Submission"
     submit: "Send Message"
 
