@@ -17,9 +17,9 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/c727cfcd93fd6dd382a269b6a66211fef3cdb24b" # the subpath of your site, e.g. /blog
 
-title      : Our wedding!
+title      : Angie & Gio
 email      : angelica.giovanni2022@gmail.com #this is also the email contact forms will go to
-description: "Website under construction"
+description: "WIP"
 author     : Angelica Maineri
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
